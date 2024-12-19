@@ -8,6 +8,11 @@
 | [exflow-ml](https://github.com/suscloudservices/exflow-ml)    | Severin Haselmann     | Erik Andersson  | Web            | severin.haselmann@signupsoftware.com / erik.andersson@signupsoftware.com  | The Exflow Machine Learning API plays a crucial role in the project, focusing on the machine learning aspect.  | NA         | 2024-12-18          | Na     |
 | [semantic-kernel](https://github.com/suscloudservices/semantic-kernel)| Lars Gehrmann    | Na            | Web     | lars.gehrmann@signupsoftware.com  | AI chat bot                  | OpenAI   | 2024-12-10          | Na        |
 | [AtmozProxy](https://github.com/suscloudservices/AtmozProxy) | Paiv Darbandi     | Philip Nylén            | Web             | paiv.darbandi@signupsoftware.com / philip.nylen@signupsoftware.com | AtmozProxy is a .NET-based API proxy service designed to facilitate communication with Atmoz and the Finance Operations API.                  | exflow-cloud-onboard-azm, F&O | 2024-12-11          | Na   |
+| [API-Yarp](https://github.com/suscloudservices/API-Yarp) | Pierre Gode     | Severin Haselmann            | Web             | pierre.gode@signupsoftware.com / severin.haselmann@signupsoftware.com |NA                | NA | 2024-11-28          | Na   |
+| [pdfa3Service](https://github.com/suscloudservices/pdfa3Service) | Pierre Gode     | NA           | Web             | pierre.gode@signupsoftware.com  |The PDF/A-3 Extraction Service is an API-based utility that allows users to extract embedded files from PDF/A-3 documents.                | NA | 2024-11-27          | Na   |
+| [exflow-cloud-onboard](https://github.com/suscloudservices/exflow-cloud-onboard) | Pierre Gode     | NA           | Web             | pierre.gode@signupsoftware.com  |NA                | NA | 2024-10-10          | Na   |
+| [WIManager](https://github.com/suscloudservices/WIManager) | Pierre Gode     | Erik Andersson         | Web             | pierre.gode@signupsoftware.com / erik.andersson@signupsoftware.com |NA                | NA | 2024-9-3          | Na   |
+| [FraudInspector](https://github.com/suscloudservices/FraudInspector) | Paiv Darbandi     | NA        | Web             | paiv.darbandi@signupsoftware.com | Serivce that checks the fraud score of invoices               | NA | 2024-10-14          | Currently waiting for use case    |
 
 ---
 
